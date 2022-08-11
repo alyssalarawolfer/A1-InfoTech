@@ -1,4 +1,4 @@
-
+/* general/everything */
 * {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
@@ -6,6 +6,7 @@
   box-sizing: border-box;
 }
 
+/* index.html*/
 .column {
   width: 40%;
   float: left;
@@ -17,7 +18,7 @@
 body {
   background-color: #595959;
 }
-
+/* navigation bar*/
 nav {
   width: 100%;
   height: 100px;
@@ -65,7 +66,7 @@ ul li a:hover{
   flex-grow: 1;
 }
 
-
+/* paragraphs about family & study */
 .family {
   background-color: #404040;
   width: 450px;
@@ -76,6 +77,35 @@ ul li a:hover{
 }
 
 .study {
+  background-color: #404040;
+  width: 450px;
+  margin: 40px;
+  border: 2px #666666;
+  border-style: solid;
+  padding: 20px;
+}
+
+/* fun fact about cat*/
+
+.pet-fact {
+  background-color: #404040;
+  width: 450px;
+  margin: 40px;
+  border: 2px #666666;
+  border-style: solid;
+  padding: 20px;
+}
+
+.sport-fact {
+  background-color: #404040;
+  width: 450px;
+  margin: 40px;
+  border: 2px #666666;
+  border-style: solid;
+  padding: 20px;
+}
+
+.food-fact {
   background-color: #404040;
   width: 450px;
   margin: 40px;
