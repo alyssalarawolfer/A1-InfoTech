@@ -77,6 +77,10 @@ ul li a:hover{
 }
 
 /* interests.html styles*/
+.page-2 {
+  font-size: 40px;
+}
+
 .interests {
   background-color: #404040;
   width: 600px;
