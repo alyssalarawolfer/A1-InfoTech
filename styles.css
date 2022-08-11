@@ -84,9 +84,21 @@ ul li a:hover{
   grid-auto-columns: 30%;
 
   overflow-x: auto;
+  overscroll-behaviour-incline: contain;
+}
 
+.cat-element {
+  display: grid;
+  gap: var(--size-2);
+  padding: var(--size-3);
+  background-color: var(--surface-2);
+  border-radius: var(--size-2);
+}
 
-
+.cat-element > img {
+  inline-size: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
 
 
 }
