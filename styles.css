@@ -66,6 +66,10 @@ ul li a:hover{
   flex-grow: 1;
 }
 
+.about-me {
+  font-size: 40px;
+}
+
 /* paragraphs about family & study */
 .index {
   background-color: #404040;
