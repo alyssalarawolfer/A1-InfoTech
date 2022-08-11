@@ -47,11 +47,9 @@ ul li a:hover{
 }
 
 .container {
-  width: 100%;
-  height: 500px;
-  background-color: #ccc;
-
-  display: flex;
-  flex-flow: row wrap;
-  
+  background-color: #404040;
+  width: 300px;
+  border: 7px #595959;
+  padding: 35px;
+  margin: 25px;
 }
