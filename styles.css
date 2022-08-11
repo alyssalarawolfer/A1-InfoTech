@@ -65,7 +65,6 @@ ul li a:hover{
   border: 2px #666666;
   border-style: solid;
   padding: 20px;
-
 }
 
 .study {
@@ -77,28 +76,11 @@ ul li a:hover{
   padding: 20px;
 }
 
-.media-scroller {
-  display: grid;
-  gap: var(--size-3);
-  grid-auto-flow: column;
-  grid-auto-columns: 30%;
-
-  overflow-x: auto;
-  overscroll-behaviour-incline: contain;
+.pet-picture {
+  display: flex;
 }
 
-.cat-element {
-  display: grid;
-  gap: var(--size-2);
-  padding: var(--size-3);
-  background-color: var(--surface-2);
-  border-radius: var(--size-2);
-}
-
-.cat-element > img {
-  inline-size: 100%;
-  aspect-ratio: 16 / 9;
-  object-fit: cover;
-
-
+.cats {
+  flex: 33.33%
+  padding: 5px;
 }
