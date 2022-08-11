@@ -50,10 +50,10 @@ ul li a:hover{
   color: blue;
 }
 
-.container {
+.info {
   width: 100%;
   height: 500px;
-  background-color: purple;
+  background-color: red;
 
   display: flex;
   flex-flow: row wrap;
@@ -69,7 +69,17 @@ ul li a:hover{
 /* paragraphs about family & study */
 .index {
   background-color: #404040;
-  width: 450px;
+  width: 600px;
+  margin: 40px;
+  border: 2px #666666;
+  border-style: solid;
+  padding: 20px;
+}
+
+/* interests.html styles*/
+.interests {
+  background-color: #404040;
+  width: 600px;
   margin: 40px;
   border: 2px #666666;
   border-style: solid;
