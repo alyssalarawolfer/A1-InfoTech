@@ -76,13 +76,13 @@ ul li a:hover{
   padding: 20px;
 }
 
-.pet {
+.row {
   float: left;
   width: 33.33%
   padding: 5px;
 }
 
-.cats::after {
+.column::after {
   content: "";
   clear: both;
   display: table;
