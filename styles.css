@@ -1,8 +1,9 @@
 
 * {
-  font-style: Helvetica;
+  font-style:
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 
