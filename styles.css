@@ -48,5 +48,10 @@ ul li a:hover{
 
 .family {
   background-color: #404040;
-  
+  width: 450px;
+  margin: 40px;
+  border: 5px #666666;
+  border-style: solid;
+  padding: 20px;
+
 }
