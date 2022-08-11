@@ -46,15 +46,7 @@ ul li a:hover{
   color: blue;
 }
 
-.family {
-  background-color: #404040;
-  width: 300px;
-  border: 7px #595959;
-  padding: 35px;
-  margin: 25px;
-}
-
-.study {
+.div {
   background-color: #404040;
   width: 300px;
   border: 7px #595959;
