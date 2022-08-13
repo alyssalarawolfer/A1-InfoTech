@@ -93,3 +93,79 @@ ul li a:hover{
   border-style: solid;
   padding: 20px;
 }
+
+/* personality.html styles*/
+
+.test-1 {
+  background-color: #404040;
+  width: 700px;
+  margin: 40px;
+  border: 2px #666666;
+  border-style: solid;
+  padding: 20px;
+}
+
+.test-2 {
+  background-color: #404040;
+  width: 700px;
+  margin: 40px;
+  border: 2px #666666;
+  border-style: solid;
+  padding: 20px;
+}
+
+.test-3 {
+  background-color: #404040;
+  width: 700px;
+  margin: 40px;
+  border: 2px #666666;
+  border-style: solid;
+  padding: 20px;
+}
+
+/* project idea.html styles*/
+
+.Overview {
+  background-color: #404040;
+  width: 700px;
+  margin: 40px;
+  border: 2px #666666;
+  border-style: solid;
+  padding: 20px;
+}
+
+.Motivation {
+  background-color: #404040;
+  width: 700px;
+  margin: 40px;
+  border: 2px #666666;
+  border-style: solid;
+  padding: 20px;
+}
+
+.Description {
+  background-color: #404040;
+  width: 700px;
+  margin: 40px;
+  border: 2px #666666;
+  border-style: solid;
+  padding: 20px;
+}
+
+.Tech-Skills {
+  background-color: #404040;
+  width: 700px;
+  margin: 40px;
+  border: 2px #666666;
+  border-style: solid;
+  padding: 20px;
+}
+
+.Outcome {
+  background-color: #404040;
+  width: 700px;
+  margin: 40px;
+  border: 2px #666666;
+  border-style: solid;
+  padding: 20px;
+}
