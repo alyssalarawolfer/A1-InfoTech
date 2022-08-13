@@ -80,6 +80,17 @@ ul li a:hover{
   padding: 20px;
 }
 
+
+/* ideal job.html styles*/
+
+.ideal-job {
+  background-color: #404040;
+  width: 700px;
+  margin: 40px;
+  border: 2px #666666;
+  border-style: solid;
+  padding: 20px;
+
 /* interests.html styles*/
 .page-2 {
   font-size: 40px;
