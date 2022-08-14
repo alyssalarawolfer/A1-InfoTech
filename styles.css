@@ -68,7 +68,13 @@ ul li a:hover{
 }
 
 .about-me {
-  font-size: 40px;
+  font-size: 35px;
+  text-align: center;
+}
+
+.section-title {
+  font-size: 30px;
+  text-align: center;
 }
 
 /* paragraphs about family & study */
