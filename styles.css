@@ -81,6 +81,10 @@ ul li a:hover{
   padding: 20px;
 }
 
+.header-me {
+  font-size: 76px;
+}
+
 
 /* ideal job.html styles*/
 
@@ -91,6 +95,8 @@ ul li a:hover{
   border: 2px #666666;
   border-style: solid;
   padding: 20px;
+
+
 
 /* interests.html styles*/
 .page-2 {
