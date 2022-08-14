@@ -7,7 +7,7 @@
 
 }
 
-/* index.html*/
+/* index.html */
 .column {
   width: 40%;
   float: left;
@@ -19,7 +19,7 @@
 body {
   background-color: #595959;
 }
-/* navigation bar*/
+/* navigation bar */
 nav {
   width: 100%;
   height: 100px;
@@ -81,12 +81,17 @@ ul li a:hover{
   padding: 20px;
 }
 
-.header-me {
-  font-size: 76px;
+.ideal-job {
+  background-color: #404040;
+  width: 700px;
+  margin: 40px;
+  border: 2px #666666;
+  border-style: solid;
+  padding: 20px
 }
 
 
-/* ideal job.html styles*/
+/* ideal job.html styles */
 
 .ideal-job {
   background-color: #404040;
@@ -95,13 +100,9 @@ ul li a:hover{
   border: 2px #666666;
   border-style: solid;
   padding: 20px;
-
-
-
-/* interests.html styles*/
-.page-2 {
-  font-size: 40px;
 }
+
+/* interests.html styles */
 
 .interests {
   background-color: #404040;
@@ -112,69 +113,11 @@ ul li a:hover{
   padding: 20px;
 }
 
-/* personality.html styles*/
 
-.test {
-  background-color: #404040;
-  width: 700px;
-  margin: 40px;
-  border: 2px #666666;
-  border-style: solid;
-  padding: 20px;
-}
 
-/* project idea.html styles*/
 
-.Overview {
-  background-color: #404040;
-  width: 700px;
-  margin: 40px;
-  border: 2px #666666;
-  border-style: solid;
-  padding: 20px;
-}
+/* personality.html styles */
 
-.Motivation {
-  background-color: #404040;
-  width: 700px;
-  margin: 40px;
-  border: 2px #666666;
-  border-style: solid;
-  padding: 20px;
-}
 
-.Description {
-  background-color: #404040;
-  width: 700px;
-  margin: 40px;
-  border: 2px #666666;
-  border-style: solid;
-  padding: 20px;
-}
 
-.Tech-Skill {
-  background-color: #404040;
-  width: 700px;
-  margin: 40px;
-  border: 2px #666666;
-  border-style: solid;
-  padding: 20px;
-}
-
-.project{
-  background-color: #404040;
-  width: 700px;
-  margin: 40px;
-  border: 2px #666666;
-  border-style: solid;
-  padding: 20px;
-}
-
-.tests {
-  background-color: #404040;
-  width: 700px;
-  margin: 40px;
-  border: 2px #666666;
-  border-style: solid;
-  padding: 20px;
-}
+/* project idea.html styles */
